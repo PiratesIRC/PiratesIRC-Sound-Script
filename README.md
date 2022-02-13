@@ -5,7 +5,7 @@ A mIRC/AdiIRC script used to enable sounds for the PiratesIRC game.
    - i.e. <~CaptJack> ☠ Cap'n 👑 Jack_Sparrow not be saved n' loses 1 power as he swims to the ship! 🎵drowned🎵
 
 https://piratesirc.com/
-https://pastebin.com/edit/TW7kcY5J
+https://pastebin.com/TW7kcY5J
 https://github.com/PiratesIRC/PiratesIRC-Sound-Script
 
 Requirements:
