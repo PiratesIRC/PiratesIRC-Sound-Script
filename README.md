@@ -6,6 +6,7 @@ A mIRC/AdiIRC script used to enable sounds for the PiratesIRC game.
 
 https://piratesirc.com/
 https://pastebin.com/edit/TW7kcY5J
+https://github.com/PiratesIRC/PiratesIRC-Sound-Script
 
 Requirements:
      - Crewmember on a ship - https://piratesirc.com/play.html
